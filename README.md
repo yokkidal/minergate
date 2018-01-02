@@ -1,0 +1,2 @@
+# minergate
+test
